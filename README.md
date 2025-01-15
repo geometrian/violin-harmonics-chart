@@ -5,7 +5,7 @@
 This chart shows all the "reasonable" harmonics (in the manner discussed above) that can be produced on a violin for four octaves starting at the lowest-attainable harmonic, G4.  Natural and artificial harmonics are listed, as well as explanatory text.  Harmonics are colored according to the sound quality produced and the ease with which they can be played.
 
 I am hosting a pre-built version of the chart for your convenience.  Click the following image to download the PDF:<br/>
-[![Click image to download PDF chart](https://geometrian.com/data/arts/music/violin-harmonics-chart-preview.png)](https://geometrian.com/data/arts/music/violin-harmonics-chart.pdf)
+[![Click image to download PDF chart](https://geometrian.com/projects/data/violin_harmonics_chart_preview.webp)](https://geometrian.com/projects/data/violin_harmonics_chart.pdf)
 
 ## Building and Files List
 

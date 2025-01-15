@@ -2,7 +2,7 @@
 
 \header {
 	title = "Violin Harmonics"
-	composer = "Arranged by Ian Mallett"
+	composer = "Arranged by Agatha Mallett"
 	tagline = \markup{""}
 		%\markup {
 		%	Engraved at
