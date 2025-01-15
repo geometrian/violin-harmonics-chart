@@ -17,4 +17,5 @@ There are also two [Python](https://www.python.org/) scripts that were used to c
 
 - Validation by (more) musicians.
 - Adjust the colors, especially for octaves and fifths?
+- Cleanup of the LilyPond markup.  Currently it is very verbose.
 - Conversion to LaTeX document, for better typesetting especially in the description.
